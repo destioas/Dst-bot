@@ -18,7 +18,7 @@ const defaultMenu = {
 ├ Uptime: *%uptime (%muptime)*
 ├ Database: %rtotalreg dari %totalreg
 ├ Github:
-├ %github
+├ github.com/destioas/Dst-bot
 └────
 %readmore`.trimStart(),
   header: '┌─〔 %category 〕',
