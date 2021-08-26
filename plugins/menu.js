@@ -19,6 +19,7 @@ const defaultMenu = {
 ├ Database: %rtotalreg dari %totalreg
 ├ Github:
 ├ github.com/destioas/Dst-bot
+| http://ǀtz.me/Dst-bot
 └────
 %readmore`.trimStart(),
   header: '┌─〔 %category 〕',
